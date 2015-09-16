@@ -1,0 +1,1 @@
+E:\workspaces\visual studio 2015\Projects\CalculatorDemo\CalculatorDemo\CalculatorDemo.csproj;x86
